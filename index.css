@@ -1,0 +1,46 @@
+#title {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+header {
+    background-image: url(./recursos/pattern.jpeg)
+}
+
+#brushes {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#preço{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+
+}
+
+#Frames {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#Paint {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+h3, p{
+    font-family: Helvetica;
+}
